@@ -32,6 +32,8 @@ e categorias, comparar vendedores e analisar formas de pagamento.
 
 ## Arquitetura
 
+![Arquitetura do projeto](images/arquitetura.png)
+
 O fluxo começa na base corporativa disponibilizada pelo curso.
 O Pentaho extrai os dados, aplica os tratamentos e carrega
 o Data Mart no PostgreSQL local.
@@ -124,6 +126,8 @@ Esses números representam a carga conferida nessa data.
 Novas execuções podem apresentar outros totais, pois a origem recebe atualizações.
 
 ## Dashboard
+
+![Dashboard de análise de vendas](images/dashboard.png)
 
 O painel apresenta:
 
