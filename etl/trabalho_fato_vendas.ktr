@@ -443,7 +443,7 @@
     <database>datadt_digital_corporativo</database>
     <port>5432</port>
     <username>datadt_data_analytics</username>
-    <password>Encrypted 46dfecce8904c69e9dbf10ad639ac3ff8a</password>
+    <password></password>
     <servername/>
     <data_tablespace/>
     <index_tablespace/>
@@ -498,7 +498,7 @@
     <database>Modulo02_dwvendas</database>
     <port>5432</port>
     <username>postgres</username>
-    <password>Encrypted 2be98afc86aa7f2e4cb79ce108fc0fc8e</password>
+    <password></password>
     <servername/>
     <data_tablespace/>
     <index_tablespace/>
