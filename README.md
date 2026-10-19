@@ -32,7 +32,7 @@ e categorias, comparar vendedores e analisar formas de pagamento.
 
 ## Arquitetura
 
-![Arquitetura do projeto](images/arquitetura.png)
+![Arquitetura do projeto](images/Arquitetura_Projeto_Vendas.png)
 
 O fluxo começa na base corporativa disponibilizada pelo curso.
 O Pentaho extrai os dados, aplica os tratamentos e carrega
