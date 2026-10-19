@@ -1,9 +1,6 @@
 --
 -- PostgreSQL database dump
 --
-
-\restrict FdzymUPboXPcHQvq5aUtTPHT3cJE2xMk9CkJi1niQaysucWybgX0uL0FbWb48TA
-
 -- Dumped from database version 17.10
 -- Dumped by pg_dump version 17.10
 
@@ -276,5 +273,4 @@ ALTER TABLE ONLY dm_vendas.fato_vendas
 -- PostgreSQL database dump complete
 --
 
-\unrestrict FdzymUPboXPcHQvq5aUtTPHT3cJE2xMk9CkJi1niQaysucWybgX0uL0FbWb48TA
 
