@@ -127,7 +127,7 @@ Novas execuções podem apresentar outros totais, pois a origem recebe atualiza�
 
 ## Dashboard
 
-![Dashboard de análise de vendas](images/dashboard.png)
+![Dashboard de análise de vendas](imagens/dashboard.png)
 
 O painel apresenta:
 
